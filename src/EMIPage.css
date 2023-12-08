@@ -1,0 +1,14 @@
+.page{
+    display: flex;
+    flex-direction: column;
+    padding: 0 15px;
+    margin: 5px 15px;
+    width: 50%;
+}
+.sliders{
+    width: 100%;
+}
+.labels{
+    display: flex;
+    justify-content: space-between;
+}
